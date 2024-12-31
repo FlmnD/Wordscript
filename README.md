@@ -169,7 +169,9 @@ class Dog open_curly_brace
 		
 		print open_parenthesis double_quotation_marks Woof! double_quotation_marks close_parenthesis semicolon
 
-close_curly_braces
+	close_curly_brace
+
+close_curly_brace
 ```
 
 #### How to instantiate an object of the dog class
