@@ -179,5 +179,5 @@ close_curly_brace
 The instantiation of an object is the same as in Java. Again, the only difference is that each of the symbols are spelled out for maximum readability.
 
 ```
-Dog variable dog equals new dog open_parenthesis integer five comma string double_quotation_marks Fido double_quotation_marks close_parenthesis semicolon
+Dog variable dog equals new Dog open_parenthesis integer five comma string double_quotation_marks Fido double_quotation_marks close_parenthesis semicolon
 ```
